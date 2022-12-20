@@ -1,0 +1,18 @@
+*Tópicos*
+- Ficheiros
+- Tratamento de excepçoes 
+
+Exercicios
+
+1.Eh dado um ficheiro contendo dados. Escreva um programa que conte o numero de 
+caracteres, imprima o conteúdo no ecran e copia-o para um outro ficheiro de saída (faça o 
+tratamento caractere a caractere).
+
+2.Eh dado um ficheiro contendo dados. Escreva um programa que imprima o conteúdo
+no ecran e copia-o para um outro ficheiro de saída (faça o tratamento linha a linha).
+
+3.Escreva um programa para ler dados de n estudante e escrever num ficheiro de texto 
+depois, ler o conteúdo do ficheiro (linha a linha), criar objecto estudante e imprimir no ecran.
+
+4.Escreva um programa para ler dados de n estudante colocar numa ED (array, pilha, fila),
+escrever a ED num ficheiro depois, ler a ED do ficheiro e imprimir o conteúdo no ecran
