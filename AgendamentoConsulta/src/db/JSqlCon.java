@@ -8,7 +8,7 @@ import java.time.LocalDate;
  * JSqlCon
  */
 public class JSqlCon {
-    static final String DB_URL = "jdbc:mysql://localhost/clinicaeit";
+    static final String DB_URL = "jdbc:mysql://localhost:3306/clinicaeit";
     static final String USER = "root";
     static final String PASS = "";
     static final String QUERY = "SELECT * FROM funcionario, Paciente";
@@ -17,7 +17,7 @@ public class JSqlCon {
     public static boolean connectDb() {
         try {// Open a connection
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/clinicaeit", "root", "");
+            conn = DriverManager.getConnection(DB_URL, USER, PASS);
             return true;
         } catch (Exception e) {
             System.out.println("Occoreu um erro ao se conectar a base de dados!");
