@@ -9,7 +9,7 @@ import javax.swing.plaf.ColorUIResource;
 
 import java.io.*;
 /**
- * @author  Helder Campos
+ * @author  Henk Beula
  */
 public class GestaoEleitoral{
     static Eleitor [] eleitor = new Eleitor[1];
