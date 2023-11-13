@@ -1,6 +1,6 @@
 import java.io.Serializable;
 /**
- * Eleitor
+ * @Author Henk Beula
  */
 public class Eleitor  extends Pessoa implements Serializable{
     private int numeroDeEleitor;
