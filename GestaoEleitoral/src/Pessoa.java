@@ -1,5 +1,5 @@
 /****
- * @author Helder Campos
+ * @author Henk Beula
  ***/
 
 public abstract class Pessoa{
