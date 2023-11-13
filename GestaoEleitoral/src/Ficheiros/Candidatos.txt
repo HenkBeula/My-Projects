@@ -1,0 +1,3 @@
+Marcelo Masculino 01/01/1975 0 Mocambicano 9999 Maputo Macarroca Aprovado
+Matusse Masculino 01/02/1949 0 Mocambicano 10000 Sommershield Pato Aprovado
+Tobi Masculino 01/05/2023 0 Mocambicano 10001 ZonaVerde Pato Aprovado
