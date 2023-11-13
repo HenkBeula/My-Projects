@@ -4,7 +4,7 @@
 import java.io.*;
 /**
  *
- * @author  Helder Campos
+ * @author  Henk Beula
  */
 public class TextFile {
     private FileWriter wr;
