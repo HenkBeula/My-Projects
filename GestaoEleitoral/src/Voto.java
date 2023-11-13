@@ -1,6 +1,6 @@
 /**
  *
- * @author Helder Campos
+ * @author Henk Beula
  */
 
 public class Voto {
